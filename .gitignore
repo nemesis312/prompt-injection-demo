@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+bloqueos.log
+# nunca subir un .env real; el demo usa proyecto/.env.demo (falso)
+.env
